@@ -22,4 +22,4 @@ SPA
 Lift  
 
 ## Dashboard Preview
-![Dashboard](Home_Page.png)
+![Dashboard](Home_Page .png)
