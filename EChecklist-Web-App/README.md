@@ -21,7 +21,13 @@ Operators
 Assignments  
 Tasks  
 Reports  
+## Live Application
 
+Live Demo: [https://your-app-link.com](https://echecklist-app.web.app/)
+
+## Source Code
+
+GitHub Repository: https://github.com/bbhoyteN/Namdev-Data-Analytics-Portfolio/tree/main/EChecklist-Web-App
 ## Application Preview
 ![Dashboard](Login.png)
 ![Dashboard](admin.png)
