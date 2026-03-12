@@ -13,3 +13,9 @@ This project analyzes hospital emergency room data to understand patient flow, w
 - Admission trends
 - Patient satisfaction score
 - Department referral patterns
+
+## Dashboard Preview
+
+![Dashboard](Home_Page.png)
+![Dashboard](Dashboard_Page.png)
+![Dashboard](Report_Page.png)
