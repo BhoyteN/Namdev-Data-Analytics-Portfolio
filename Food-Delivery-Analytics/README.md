@@ -19,4 +19,5 @@ This project analyzes food delivery data to understand order trends, customer be
 - Performance Dashboard
 - Order Analysis Report
 
+## Dashboard Preview
 ![Dashboard](Food_Delivery.png)
